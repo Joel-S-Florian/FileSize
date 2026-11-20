@@ -180,4 +180,5 @@ cargo test -p scanner                                            # pruebas
 ## Créditos y aviso
 
 - Icono de [Icons8](https://icons8.com) (*Windows 11 Color – Data Configuration*).
+- Licencia [MIT](LICENSE).
 - FileSize es un proyecto independiente **inspirado en TreeSize Free**; no está afiliado a JAM Software ni usa su código.
